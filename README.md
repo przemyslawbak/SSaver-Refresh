@@ -1,2 +1,9 @@
 # SSaver-Refresh
-Simple desktop application preventing screen saver from starting up. My very first .NET WPF app created for friend of mine in Feb 2018.
+
+## Purpose
+
+Simple desktop project preventing screen saver from startup. My very first desktop application.
+
+## Production
+
+Feb 2018
